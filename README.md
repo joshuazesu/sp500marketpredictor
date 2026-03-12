@@ -1,4 +1,4 @@
-# 📊 S&P500 Market Direction Predictor
+# 📊 S&P 500 Market Direction Predictor
 
 A machine learning model that predicts whether the S&P500 index will close higher or lower tomorrow. Built with Python and Jupyter, this project explores whether a machine learning model can uncover patterns in financial markets.<br>
 This project was driven purely by my own self-curiosity and interest in the financial markets. 
