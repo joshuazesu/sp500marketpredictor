@@ -31,4 +31,13 @@ To run this project locally:
 3. Launch Jupyter: `jupyter notebook`
 4. Open `sp500_predictor.ipynb` and run all cells
 
+## 💭 Why I Built This
+I have always been fascinated by financial markets and driven by that, I wanted to see if machine learning could uncover trends/insights that I could not see with my own eyes.<br>
+What started out as a small project born from curiosity, became a way for me to learn about time series analysis, feature engineeering, and backtesting.
+
+## 🔮 Future improvements
+- Consider macroeconomic indicators that might impact forecasting (interest rates, VIX, economic data)
+- Build a simple trading simulator with transaction costs to validate the model
+
+
 
